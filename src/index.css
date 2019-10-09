@@ -8,10 +8,10 @@ body {
  font-weight: 300;
 }
 .percent-raised {
- color: #3cd483;
+ color: #00ff77;
 }
 .percent-fallen {
- color: #d64d96;
+ color: #fb0000;
 }
 .loading-container {
  width: 100%;

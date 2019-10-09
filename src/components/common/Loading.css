@@ -4,8 +4,8 @@
     border-right-color: transparent;
     border-radius: 50%;
     animation: rotate 1s infinite linear;
-    width: 56px;
-    height: 56px;
+    /* width: 56px; */
+    /* height: 56px; */
   }
   @keyframes rotate {
     0% {
@@ -14,4 +14,4 @@
     100% {
       transform: rotate(360deg);
     }
-  } 
+  }
